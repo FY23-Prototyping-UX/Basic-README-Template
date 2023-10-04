@@ -1,7 +1,7 @@
 # Basic README Template
 
-**Name**: Katie SEABORN (シーボーン・ケイティー)
-**Student ID**: 99902011
+**Name**: Katie SEABORN (シーボーン・ケイティー)\
+**Student ID**: 99902011\
 **E-mail ID**: seaborn.k.aa
 
 ## Customizations
